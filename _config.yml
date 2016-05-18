@@ -8,8 +8,8 @@
 # Site settings
 title: wenotme's blog
 email: junghee.joseph.kang@gmail.com
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://wenotme.github.io" # the base hostname & protocol for your site
+baseurl: "wenotme.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter_username: wenotme
 
 # Build settings
